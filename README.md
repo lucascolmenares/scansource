@@ -1,4 +1,4 @@
-# Scan Source HTML Assessment
+# ScanSource HTML Assessment
 
 Deonn,
 
